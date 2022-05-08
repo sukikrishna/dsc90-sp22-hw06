@@ -3,9 +3,9 @@
 
 ## Question 1
 
-<br> Visualization to represent the John Snow cholera death and water pump map.
-<br> Blue circles describe locations that correspond to some death -- the radius of the circle is proportionate to the number of deaths at that location.
-<br> The red markers are the locations with water pumps.
+<br> Visualization to represent the John Snow cholera death and water pump map from Soho, London (1854).
+<br> * Blue circles describe locations that correspond to some death -- the radius of the circle is proportionate to the number of deaths at that location.
+<br> * The red markers are the locations with water pumps.
 
 <iframe src='snow-map.html' width=900 height=550 frameBorder=0></iframe>
 
